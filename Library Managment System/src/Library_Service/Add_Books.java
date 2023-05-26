@@ -227,7 +227,7 @@ public class Add_Books extends javax.swing.JFrame {
                 Logger.getLogger(Delete_Category.class.getName()).log(Level.SEVERE, null, ex);
             }  
         }
-    }//GEN-LAST:event_jButton2ActionPerformed
+    }
 
    
     public static void main(String args[]) {
