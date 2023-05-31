@@ -4,6 +4,9 @@
 
 <h2>🛠️ Notice:</h2>
 
+Admin ID- admin
+Admin Password- admin123
+
 For members, you can renew your membership after 365 days.
 You can only borrow one book at a time.
 You must return your book within 14 days, otherwise it becomes "Overdue".
