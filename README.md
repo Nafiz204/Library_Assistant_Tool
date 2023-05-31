@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Nafiz204/Library_Assistant_Tool/image?issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<h2>🛠️ Notice:</h2>
+<h2>🛠️ Note:</h2>
 
 *Admin ID- admin<br>
 *Admin Password- admin123<br>
