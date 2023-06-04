@@ -4,8 +4,8 @@
 
 <h2>🛠️ Note:</h2>
 
-*Admin ID- admin<br>
-*Admin Password- admin123<br>
+* Admin ID- admin<br>
+* Admin Password- admin123<br>
 
 * "Library_service" this is the main class. <br>
 
