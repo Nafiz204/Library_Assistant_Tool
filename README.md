@@ -7,6 +7,8 @@
 *Admin ID- admin<br>
 *Admin Password- admin123<br>
 
+* "Library_service" this is the main class. <br>
+
 For members, you can renew your membership after 365 days.<br>
 You can only borrow one book at a time.<br>
 You must return your book within 14 days, otherwise it becomes "Overdue".<br>
