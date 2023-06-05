@@ -7,7 +7,8 @@
 * Admin ID- admin<br>
 * Admin Password- admin123<br>
 
-* "Library_service" is the main class. <br>
+* "Library_service" is the main class. <br> <br>
+** This program is developed using "Apache NetBeans" IDE. It is highly recommended to run on "Apache NetBeans"  ** <br>
 
 For members, you can renew your membership after 365 days.<br>
 You can only borrow one book at a time.<br>
