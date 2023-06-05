@@ -1,0 +1,2 @@
+100;Crime and Punishment;Fyodor;Available;-;-
+101;The Stranger;Albert Camus;Available;-;-

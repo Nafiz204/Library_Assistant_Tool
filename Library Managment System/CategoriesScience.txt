@@ -1,0 +1,4 @@
+300;The Soul of a New Machine;Tracy Kidder;Available;-;-
+301;Fundamental Astronomy;Pekka Kroger;Borrowed;222;24/05/2023
+302;Astrophysical Concepts;Martin Harwit;Available;-;-
+303;Bottle of Lies;Katherine Eban;Available;-;-

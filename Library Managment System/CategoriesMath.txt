@@ -1,0 +1,4 @@
+400;Math with Bad Drawings;Ben Drlin;Available;-;-
+401;Contemporary Mathematics;Kirk;Available;-;-
+402;Understanding How Geometry Works;Johnston;Available;-;-
+403;Introductory Algebra;Gloag;Available;-;-
