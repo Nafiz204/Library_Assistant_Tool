@@ -1,5 +1,5 @@
 
-package library_service;
+package Library_Service;
 
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
