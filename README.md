@@ -22,7 +22,7 @@ If for three times you have "overdue" status, you will be fined, and will not be
 ```
 git clone https://github.com/Nafiz204/Library_Assistant.git
 ```
-<p>2. Open the project in your preferred IDE, such as Eclipse or NetBeans.<br>
+<p>2. Open the project in your preferred IDE, such as Visual Studio Code or NetBeans.<br>
 <p>3. Build and run the application.<br>
   
   
